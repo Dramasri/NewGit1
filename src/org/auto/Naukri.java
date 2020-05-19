@@ -52,6 +52,8 @@ public class Naukri {
 		
 		Runtime.getRuntime().exec("D:\\Eclipse Photon\\AutoIt.exe");
 		
+		System.out.println("hai rama");
+		
 		
 		
 		
